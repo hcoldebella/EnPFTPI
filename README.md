@@ -1,6 +1,5 @@
-<img src="/assets/spashScreenNew.png">
-
 # EnPFTPI v1.2
+<img src="/assets/spashScreenNew.png">
 Estimador nao Parametrico de Funcao de Transferencia de Processos Industriais.  
 
 O aplicativo foi desenvolvido pelos discentes da Universidade Tecnologica Federal do Parana (UTFPR), campus Campo Mourao: Henrique Coldebella e Lucas Pawelski sob orientacao do Professor Dr. Flavio Luiz Rossini. 
