@@ -1,3 +1,5 @@
+<img src="/assets/spashScreenNew">
+
 # EnPFTPI v1.2
 Estimador nao Parametrico de Funcao de Transferencia de Processos Industriais.  
 
